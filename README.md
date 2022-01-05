@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 755787 | Sergio Benítez Mombiela | [report](https://github.com/SergioBenitez755787/lab6-microservices/blob/test/Solution/report.md) |             |       |
